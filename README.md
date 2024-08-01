@@ -4,12 +4,9 @@ description: Documentation for developers on the MonriJS project
 
 # MonriJS
 
-Components
-
-Form
-
-Lightbox
-
-Build
-
-Release
+* [MonriJS](README.md)
+* [Components](components/README.md)
+* [Redirect Form](form/README.md)
+* [How 3DS Works?](3ds/README.md)
+* [Testing](testing/README.md)
+* [Release](release/README.md)
