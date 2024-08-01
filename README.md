@@ -4,9 +4,11 @@ description: Documentation for developers on the MonriJS project
 
 # MonriJS
 
-* [MonriJS](README.md)
-* [Components](components/README.md)
-* [Redirect Form](form/README.md)
-* [How 3DS Works?](3ds/README.md)
-* [Testing](testing/README.md)
-* [Release](release/README.md)
+This documentation will show how the integration methods work, how the 3DS flow works and the types of testing and the release of the new version on WebPay.
+
+* [MonriJS](./)
+* [Components](components/)
+* [Redirect Form](form/)
+* [How 3DS Works?](3ds/)
+* [Testing](testing/)
+* [Release](release/)
