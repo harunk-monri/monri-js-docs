@@ -1,6 +1,6 @@
 # Redirect Form
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Line represent just example how trxHash look like</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Line represent just example how trxHash look like</p></figcaption></figure>
 
 <pre class="language-typescript" data-overflow="wrap"><code class="lang-typescript">/**
  * @param {{client_trx_hash: {ch_phone: string, ch_address: string, amount: string, installments_disabled: boolean, ch_full_name: string, ch_country: string, order_number: string, enabled_cards: [string, string, string, string], merchant: *, callbacks: [{name: string}], language: string, possible_acquirers: [{payment_provider_logid: string, id: number}], transaction_type: string, moto: string, ch_city: string, order_info: string, ch_zip: string, test_system: boolean, custom_params: string, trx_token: string, ch_email: string, currency: string}, action: string}} trxHash
@@ -155,9 +155,9 @@ buildTrxHash: function (options = {}) {
 
 The code above I get if we go to /shop at ipgtest.monri.com.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://ipgtest.monri.com/shop">https://ipgtest.monri.com/shop</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://ipgtest.monri.com/shop">https://ipgtest.monri.com/shop</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The mapping of form.ts to form.js is highlighted, if you see that form.js is included somewhere in the handlebars or something else, you know that one of the .ts files
 
@@ -634,7 +634,7 @@ This code is part of a web-based payment processing system. It defines the struc
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -997,7 +997,7 @@ The code is designed to dynamically render the first step of a payment form, han
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Pick Payment Method Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Pick Payment Method Screen</p></figcaption></figure>
 
 ```typescript
 import {step_select_payment_item} from "./step_select_payment_item";
