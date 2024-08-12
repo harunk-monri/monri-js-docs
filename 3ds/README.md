@@ -10,7 +10,7 @@ Simultaneously, your bank generates a one-off PIN and sends it to your phone via
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Example 3DS on the test gateway at ipgtest.monri.com</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

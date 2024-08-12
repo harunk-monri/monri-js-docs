@@ -9,6 +9,8 @@
   * [Main class - Template1App.ts](form/main-class-template1app.ts.md)
   * [Complete Payment (transactionSuccessful method)](form/complete-payment-transactionsuccessful-method.md)
 * [Components](components/README.md)
+  * [RPC](components/rpc.md)
+  * [Example of usage](components/example-of-usage.md)
 * [How 3DS Works?](3ds/README.md)
 * [Testing](testing/README.md)
 * [Release](release/README.md)

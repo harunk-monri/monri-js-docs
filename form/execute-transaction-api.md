@@ -1,6 +1,6 @@
 # Execute Transaction API
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>req.body.transaction</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>req.body.transaction</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>WebPay rake routes</p></figcaption></figure>
 

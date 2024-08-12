@@ -2,7 +2,7 @@
 
 When a transaction is successful, the application needs to render a "Payment Complete" screen, showing the user that their payment was processed successfully. This involves several steps in the code, particularly in the `transactionSuccessful` method of the `Template1App` class.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Detailed Steps
 

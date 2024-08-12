@@ -997,7 +997,7 @@ The code is designed to dynamically render the first step of a payment form, han
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Pick Payment Method Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Pick Payment Method Screen</p></figcaption></figure>
 
 ```typescript
 import {step_select_payment_item} from "./step_select_payment_item";
